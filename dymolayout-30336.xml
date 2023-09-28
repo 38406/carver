@@ -68,7 +68,7 @@
             <IsVertical>False</IsVertical>
             <LineTextSpan>
               <TextSpan>
-                <Text>Pass To Class</Text>
+                <Text>{{pass}}</Text>
                 <FontInfo>
                   <FontName>Segoe UI</FontName>
                   <FontSize>10.8</FontSize>
